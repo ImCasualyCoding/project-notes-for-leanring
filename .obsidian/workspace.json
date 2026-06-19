@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Projects/MoveRx Website/Interactive Features.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Interactive Features"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Projects/MoveRx Website/Interactive Features.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for Interactive Features"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Projects/MoveRx Website/Interactive Features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from Interactive Features"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "Projects/MoveRx Website/Interactive Features.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Interactive Features"
             }
           },
           {
@@ -211,16 +211,16 @@
   },
   "active": "03f4869f1a7ecfa9",
   "lastOpenFiles": [
+    "Projects/MoveRx Website/Overview.md",
+    "Home.md",
     "Projects/MoveRx Website/Interactive Features.md",
     "Projects/MoveRx Website/Architecture.md",
-    "Home.md",
     "Concepts/Web Development/Cache Busting.md",
     "Concepts/Web Development/Dynamic DOM Injection.md",
     "Concepts/Web Development/Scroll Animations.md",
     "Concepts/Web Development/CSS 3D Transforms.md",
     "Concepts/Web Development",
     "Concepts",
-    "Projects/MoveRx Website/Overview.md",
     "Projects/MoveRx Website",
     "Projects"
   ]
