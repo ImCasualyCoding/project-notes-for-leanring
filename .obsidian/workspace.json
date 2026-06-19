@@ -27,16 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/MoveRx Website/Interactive Features.md",
+                "file": "Concepts/Languages/CSS/Animations & Transforms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interactive Features"
+              "title": "Animations & Transforms"
+            }
+          },
+          {
+            "id": "55a08eb70787f8ee",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/MoveRx Website/Interactive Features.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Interactive Features"
+              "title": "Backlinks"
             }
           },
           {
@@ -128,12 +137,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/MoveRx Website/Interactive Features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Interactive Features"
+              "title": "Outgoing links"
             }
           },
           {
@@ -171,13 +179,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/MoveRx Website/Interactive Features.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Interactive Features"
+              "title": "Outline"
             }
           },
           {
@@ -209,11 +216,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03f4869f1a7ecfa9",
+  "active": "55a08eb70787f8ee",
   "lastOpenFiles": [
-    "Projects/MoveRx Website/Overview.md",
     "Home.md",
+    "Concepts/Languages/CSS/Animations & Transforms.md",
+    "Projects/MoveRx Website/Overview.md",
     "Projects/MoveRx Website/Interactive Features.md",
+    "Concepts/Languages/JavaScript/Concurrency & Renders.md",
+    "Concepts/Languages/JavaScript/Events.md",
+    "Concepts/Languages/JavaScript/DOM API.md",
+    "Concepts/Languages/JavaScript/Fundamentals.md",
+    "Concepts/Languages/JavaScript",
+    "Concepts/Languages/CSS/Design Systems.md",
+    "Concepts/Languages/CSS/Layouts (Bento & Grid).md",
+    "Concepts/Languages/CSS/Core Mechanics.md",
+    "Concepts/Languages/CSS",
+    "Concepts/Languages/HTML/Metadata & Social sharing.md",
+    "Concepts/Languages/HTML/Document Lifecycle.md",
+    "Concepts/Languages/HTML/Basics.md",
+    "Concepts/Languages/HTML",
+    "Concepts/Languages",
     "Projects/MoveRx Website/Architecture.md",
     "Concepts/Web Development/Cache Busting.md",
     "Concepts/Web Development/Dynamic DOM Injection.md",
